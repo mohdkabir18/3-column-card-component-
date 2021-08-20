@@ -1,0 +1,106 @@
+h1 {
+  font-family: "Big Shoulders Display", cursive;
+  font-weight: 700;
+}
+
+p {
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: hsl(228, 45%, 44%);
+  margin-top: 7%;
+}
+
+.row-feature {
+  padding: 7% 20% 10%;
+  background-color: hsl(0, 0%, 95%);
+}
+
+.imge-box {
+  padding-bottom: 10px;
+}
+
+.header-box {
+  margin-top: 20px;
+  color: hsl(0, 0%, 95%);
+}
+
+.text-box {
+  margin-top: 40px;
+  color: hsla(0, 0%, 100%, 0.75);
+  line-height: 2;
+}
+
+.botton-box {
+  margin-top: 80px;
+  text-decoration: none;
+}
+
+/* Sedans-section */
+
+.Sedans {
+  background-color: hsl(31, 77%, 52%);
+  font-size: 15px;
+  text-align: left;
+  padding: 5% 5%;
+  border-radius: 10px 0 0 10px;
+}
+
+.btn-sedans {
+  color: hsl(31, 77%, 52%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 95%);
+}
+
+.btn-sedans:hover {
+  background-color: hsl(31, 77%, 52%);
+  color: hsl(0, 0%, 95%);
+}
+
+/* Suvs-section */
+
+.SUVs {
+  background-color: hsl(184, 100%, 22%);
+  font-size: 15px;
+  text-align: left;
+  padding: 5% 5%;
+}
+
+.btn-suvs {
+  color: hsl(184, 100%, 22%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 95%);
+}
+.btn-suvs:hover {
+  background-color: hsl(184, 100%, 22%);
+  color: hsl(0, 0%, 95%);
+}
+
+/* luxury-section */
+
+.Luxury {
+  background-color: hsl(179, 100%, 13%);
+  font-size: 15px;
+  text-align: left;
+  padding: 5% 5%;
+  border-radius: 0 10px 10px 0;
+}
+
+.btn-Luxury {
+  color: hsl(179, 100%, 13%);
+  font-family: "Lexend Deca", sans-serif;
+  font-size: 15px;
+  background-color: hsl(0, 0%, 95%);
+}
+
+.btn-Luxury:hover {
+  background-color: hsl(179, 100%, 13%);
+  color: hsl(0, 0%, 95%);
+}
